@@ -14,3 +14,13 @@ h2 {
   color:yellow;
   font-size:24px;
 }
+div h1 {
+  color:darkblue;
+}
+l1 + li {
+  color:purple;
+}
+p > img {
+  color:white;
+  background-color:black;
+}
