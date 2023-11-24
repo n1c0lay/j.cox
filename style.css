@@ -28,15 +28,15 @@ h4:hover {
   color:green;
   font-weight:bold;
 }
-h4:before {
+h4::before {
   content: "Hey, ";
   color:red;
 }
-h4:after {
+h4::after {
   content: ", bye!"
   color:blue;
 }
-h4:selection {
+h4::selection {
   color:purple;
   background-color: yellow;
 }
