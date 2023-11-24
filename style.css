@@ -40,3 +40,25 @@ h4::selection {
   color:purple;
   background-color: yellow;
 }
+h4 {
+  font-size: 30px;
+}
+#V {
+  visiablity: visible;
+  font-size
+}
+#IV {
+  visiablity: hidden;
+}
+h3 {
+  font-size: 28px;
+}
+#_1 {
+  opasity: 1;
+}
+#_5 {
+  opasity: 0.5;
+}
+#_0 {
+  opasity: 0;
+}
