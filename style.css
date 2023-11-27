@@ -33,8 +33,8 @@ h4::before {
   color:red;
 }
 h4::after {
-  content: ", bye!"
-  color:blue;
+  content: ", bye!";
+  color: blue;
 }
 h4::selection {
   color:purple;
