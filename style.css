@@ -84,5 +84,5 @@ img {
   to {background-color:yellow;}
 }
 body {
-  anmation: ani 4s;
+  anmation: ani 4s infinite;
 }
