@@ -80,8 +80,8 @@ img {
   filter: grayscale(65%) invert(90%);
 }
 @keyframes ani {
-  from {background-color:green;}
-  to {background-color:yellow;}
+  from {background-color: green;}
+  to {background-color: yellow;}
 }
 body {
   anmation: ani 4s infinite;
