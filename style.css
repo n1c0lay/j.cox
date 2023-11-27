@@ -71,3 +71,11 @@ h3 {
 #B {
   display: block;
 }
+div {
+  margin: 25px 50px;
+  padding: 30px;
+}
+img {
+  width: 100%;
+  filter: grayscale(65%) invert(90%);
+}
