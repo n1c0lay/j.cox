@@ -62,3 +62,12 @@ h3 {
 #_0 {
   opasity: 0;
 }
+#N {
+  display: none;
+}
+#IL {
+  display: inline;
+}
+#B {
+  display: block;
+}
