@@ -79,3 +79,10 @@ img {
   width: 100%;
   filter: grayscale(65%) invert(90%);
 }
+@keyframes ani {
+  from {background-color:green;}
+  to {background-color:yellow;}
+}
+body {
+  anmation: ani 4s;
+}
